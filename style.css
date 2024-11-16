@@ -284,6 +284,8 @@ body{
     text-align: center;
     color: #000;
     padding: 32px;
+    margin-bottom: 800px;
+    height: 380px;
 }
 
 .advancements-grid {
@@ -319,8 +321,8 @@ body{
 }
 
 .advancement p {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 60px;
+    padding-right: 60px;
     font-size: 14px;
     color: #666;
 }
